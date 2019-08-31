@@ -92,3 +92,6 @@ footer {
 	font-size: 18px;
 	text-align: center;
 }
+button{
+	border-radius: 20px;
+}
